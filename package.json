@@ -1,0 +1,24 @@
+{
+  "name": "recipes",
+  "version": "1.0.0",
+  "description": "A Recipes directoy",
+  "main": "index.js",
+  "dependencies": {
+    "@vuepress/plugin-search": "^1.5.0",
+    "bootstrap": "^4.5.0",
+    "serverless-finch": "^2.5.2",
+    "vuepress": "^1.5.0",
+    "vuepress-plugin-mathjax": "^1.2.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://diegogar@bitbucket.org/diegogar/recipes.git"
+  },
+  "author": "Diego Garcia",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/diegogar/recipes#readme"
+}
