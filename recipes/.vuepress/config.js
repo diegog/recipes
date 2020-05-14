@@ -16,9 +16,9 @@ module.exports = {
     ['@vuepress/pwa', {
       serviceWorker: true,
       updatePopup: true,
-      [generateSWConfig, {
+      generateSWConfig: {
         cleanupOutdatedCaches: true
-      }]
+      }
     }]
   ],
   themeConfig: {
