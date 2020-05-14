@@ -2,7 +2,6 @@
 title: Tostones
 tags:
   - Puerto Rican
-  - Vegetarian
   - Mia Castro
 ---
 
