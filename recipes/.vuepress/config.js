@@ -11,7 +11,7 @@ module.exports = {
     ['meta', { name: 'msapplication-TileImage', content: '/icons/icon-144x144.png' }],
     ['meta', { name: 'msapplication-TileColor', content: '#000000' }]
   ],
-  plugins: [
+  plugins: {
       'vuepress-plugin-mathjax',
       '@vuepress/pwa': {
         serviceWorker: true,
@@ -20,7 +20,7 @@ module.exports = {
           cleanupOutdatedCaches: true
         }
       }
-  ],
+  },
   themeConfig: {
     sidebar: 'auto',
     logo: '/icon.svg',
