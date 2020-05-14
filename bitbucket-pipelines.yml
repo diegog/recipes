@@ -4,6 +4,8 @@ pipelines:
   default:
     - step:
         name: build and send to s3
+        caches:
+          - node
         script:
           - npm install -g serverless vuepress
           - npm install
