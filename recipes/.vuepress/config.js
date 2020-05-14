@@ -12,15 +12,14 @@ module.exports = {
     ['meta', { name: 'msapplication-TileColor', content: '#000000' }]
   ],
   plugins: [
-      'vuepress-plugin-mathjax',
-      '@vuepress/pwa',
-      {
-        serviceWorker: true,
-        updatePopup: true,
-        generateSWConfig: {
-          cleanupOutdatedCaches: true
-        }
+    'vuepress-plugin-mathjax',
+    ['@vuepress/pwa', {
+      serviceWorker: true,
+      updatePopup: true,
+      generateSWConfig: {
+        cleanupOutdatedCaches: true
       }
+    }]
   ],
   themeConfig: {
     sidebar: 'auto',
