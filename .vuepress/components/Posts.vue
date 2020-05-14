@@ -1,10 +1,12 @@
 <template>
-  <div class="posts list-group" v-if="posts.length">
-    <div class="post list-group-item list-group-item-action flex-column align-items-start" v-for="post in posts">
-      <router-link :to="post.path">
-        <h3 class="mb-2 text-left text-black">{{post.frontmatter.title}}</h3>
-        <p class="mb-0 text-left">{{post.frontmatter.tags.join(', ')}}</p>
-      </router-link>
+  <div class="container">
+    <div class="posts list-group" v-if="posts.length">
+      <div class="post list-group-item list-group-item-action flex-column align-items-start" v-for="post in posts">
+        <router-link :to="post.path">
+          <h3 class="mb-2 text-left text-black">{{post.frontmatter.title}}</h3>
+          <p class="mb-0 text-left">{{post.frontmatter.tags.join(', ')}}</p>
+        </router-link>
+      </div>
     </div>
   </div>
 </template>
