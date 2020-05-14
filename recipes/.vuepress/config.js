@@ -13,7 +13,11 @@ module.exports = {
   ],
   plugins: [
       'vuepress-plugin-mathjax',
-      '@vuepress/pwa'
+      '@vuepress/pwa',
+      {
+        serviceWorker: true,
+        updatePopup: true
+      }
   ],
   themeConfig: {
     sidebar: 'auto',
