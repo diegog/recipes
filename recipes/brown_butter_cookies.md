@@ -16,9 +16,16 @@ Traditional chocolate chip cookies made with brown butter
 - 1 cup **brown sugar**
 - $\frac{1}{4}$ cup **white sugar**
 - 1 whole **egg**
-- 2 **egg yokes**
+- 2 **egg yolks**
 - 2 tsp **vanilla extract**
 - 6 oz **chocolate chips**
 
 ## Directions
-1. Brown 1 stick (4 oz) of butter
+1. Preheat to 375˚F
+2. Whisk flour, salt, and baking soda in a bowl and set aside
+3. Brown 1 stick of butter in a large saucepan over medium heat. Swirl often and scrape bottom with silicone spatula to prevent sticking. Process should take about 4 minutes
+4. Cut remaining butter and add into browned butter
+5. After butter is relatively cool, add egg, egg yolks, and sugar and whisk until smooth, then whisk in the vanilla extract
+6. Using the spatula, fold the dry ingredients from step 2 into the butter mixture, then fold in the chocolate
+7. Let rest 5-10 minutes
+8. Scoop ~3 tbsp sized balls of dough and bake on cookie sheet until golden brown (~8-10 minutes)
