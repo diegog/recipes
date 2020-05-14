@@ -1,11 +1,4 @@
-# Serverless Base Configuration
-# gafo 3/29/18
-
 service: recipes-diegog-io
-
-# You can pin your service to only deploy with a specific Serverless version
-# Check out our docs for more details
-# frameworkVersion: "=X.X.X"
 
 provider:
   name: aws
@@ -14,7 +7,7 @@ provider:
   region: us-east-1
 package:
   exclude:
-    - .vuepress/dist
+    - recipes/.vuepress/**
 
 # define plugins here
 plugins:
