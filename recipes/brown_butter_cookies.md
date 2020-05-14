@@ -14,7 +14,7 @@ Traditional chocolate chip cookies made with brown butter
 - 1 cup
 - $\frac{3}{4}$ tsp **baking powder**
 - 1$\frac{1}{4}$ tsp **salt**
-- 1 cup **brown sugar
+- 1 cup **brown sugar**
 - $\frac{1}{4}$ cup **white sugar**
 - 1 whole **egg**
 - 2 **egg yokes**
