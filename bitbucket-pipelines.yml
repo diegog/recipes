@@ -5,7 +5,8 @@ pipelines:
     - step:
         name: build and send to s3
         script:
-          - npm install -g serverless
+          - npm install -g serverless vuepress
           - npm install
           - serverless config credentials --provider aws --key $AWS_ACCESS_KEY_ID --secret $AWS_SECRET_ACCESS_KEY
+          - vuepress build recipes/
           - serverless client deploy
