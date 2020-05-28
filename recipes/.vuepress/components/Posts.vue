@@ -22,7 +22,7 @@ export default {
           return x.path.match(new RegExp(`(${currentPage})(?=.*html)`));
         })
         .sort((a, b) => {
-          (a.frontmatter.title > b.frontmatter.title) ? -1 : 1
+          return (a.frontmatter.title > b.frontmatter.title) ? 1 : -1;
         });
       return posts;
     }
