@@ -23,7 +23,7 @@ Traditional chocolate chip cookies made with brown butter
 ## Directions
 1. Preheat to 375˚F
 2. Whisk flour, salt, and baking soda in a bowl and set aside
-3. Brown 1 stick of butter in a large saucepan over medium heat. Swirl often and scrape bottom with silicone spatula to prevent sticking. Process should take about 4 minutes. Once brown, place in bowl and set aside
+3. Brown 1 stick of butter in a large saucepan over medium heat. Swirl often and scrape bottom with silicone spatula to prevent sticking. Process should take about 4 minutes. Once brown, place in its own bowl and set aside
 4. Cut remaining butter and add into browned butter
 5. After butter is relatively cool, add egg, egg yolks, and sugar and whisk until smooth, then whisk in the vanilla extract
 6. Using the spatula, fold the dry ingredients from step 2 into the butter mixture, then fold in the chocolate

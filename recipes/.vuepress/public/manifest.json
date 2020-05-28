@@ -1,5 +1,6 @@
 {
   "name": "Recipes",
+  "short_name": "Recipes",
   "theme_color": "#818181",
   "background_color": "#818181",
   "display": "standalone",

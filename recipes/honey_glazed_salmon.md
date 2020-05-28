@@ -1,5 +1,5 @@
 ---
-title: Honey-glazed Salmon
+title: Honey-Glazed Salmon
 tags:
   - Salmon
   - STKU
