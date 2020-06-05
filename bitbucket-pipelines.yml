@@ -7,9 +7,9 @@ pipelines:
           name: build and send to s3
           caches:
             - node
-            script:
-              - npm install -g serverless vuepress
-              - npm install
-              - serverless config credentials --provider aws --key $AWS_ACCESS_KEY_ID --secret $AWS_SECRET_ACCESS_KEY
-              - npm run build
-              - serverless client deploy --no-confirm
+          script:
+            - npm install -g serverless vuepress
+            - npm install
+            - serverless config credentials --provider aws --key $AWS_ACCESS_KEY_ID --secret $AWS_SECRET_ACCESS_KEY
+            - npm run build
+            - serverless client deploy --no-confirm
