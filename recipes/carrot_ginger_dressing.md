@@ -7,12 +7,13 @@ tags:
 
 # My Awesome Recipe
 
-makes ~1 /frac{1}{3} cups
+makes ~1 $/frac{1}{3}$ cups
 
 ## Ingredients
 - $\frac{1}{3}$ cup extra-virgin **Olive Oil**
 - $\frac{1}{3}$ cup **Rice Vinegar**
 - 2 large **carrots**, peeled and roughly chopped
+- 2 tbsp **ginger**, peeled and roughly chopped
 - 2 tbsp **lime juice**
 - 1 tbsp **honey**
 - 1 $\frac{1}{2}$ tsp **toasted sesame oil**
