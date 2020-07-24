@@ -7,7 +7,7 @@ tags:
 
 # Carrot Ginger Dressing
 
-makes ~1 $/frac{1}{3}$ cups
+makes ~1 $\frac{1}{3}$ cups
 
 ## Ingredients
 - $\frac{1}{3}$ cup extra-virgin **Olive Oil**
