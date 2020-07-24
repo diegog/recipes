@@ -5,7 +5,7 @@ tags:
   - "Cookie and Kate"
 ---
 
-# My Awesome Recipe
+# Carrot Ginger Dressing
 
 makes ~1 $/frac{1}{3}$ cups
 
