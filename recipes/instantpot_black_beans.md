@@ -14,6 +14,8 @@ Cuban-style black beans
 - 3 slices **bacon**, chopped
 - $\frac{1}{2}$ cup **onion**, chopped
 - 3 tbsp **jalapeño**, minced
+- 1 tbsp **garlic**, minced
+- 3 cups **water**
 - 3 cups **chicken broth**
 - 1 lb **dried black beans**
 - $\frac{1}{4}$ cup **red wine vinegar**
