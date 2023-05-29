@@ -6,8 +6,7 @@
   "dependencies": {
     "@vuepress/plugin-search": "^1.5.0",
     "bootstrap": "^4.5.0",
-    "serverless-finch": "^2.5.2",
-    "vuepress": "^1.5.0",
+    "vuepress": "^1.9.9",
     "vuepress-plugin-mathjax": "^1.2.8"
   },
   "devDependencies": {
