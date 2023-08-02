@@ -1,16 +1,16 @@
 module.exports = {
   title: "Recipes",
-  description: "Diego Garcia's Blog",
+  description: "Diego's Recipes",
   head: [
     ['link', { rel: 'icon', href: '/icon.svg' }],
     ['link', { rel: 'manifest', href: '/manifest.json' }],
     ['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1'}],
-    ['meta', { name: 'theme-color', content: '#3eaf7c' }],
+    ['meta', { name: 'theme-color', content: '#ffffff' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
     ['link', { rel: 'apple-touch-icon', href: '/icons/icon-152x152.png' }],
     ['meta', { name: 'msapplication-TileImage', content: '/icons/icon-144x144.png' }],
-    ['meta', { name: 'msapplication-TileColor', content: '#000000' }]
+    ['meta', { name: 'msapplication-TileColor', content: '#ffffff' }]
   ],
   plugins: [
     'vuepress-plugin-mathjax',
