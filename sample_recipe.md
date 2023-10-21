@@ -10,8 +10,8 @@ tags:
 Description (optional)
 
 ## Ingredients
-- ingredient 1
-- ingredient 2
+- $\frac{1}{2}$ cup ingredient 1
+- 3 cup ingredient 2
 
 ## Directions
 1. Cut ingredients
